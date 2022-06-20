@@ -5,9 +5,8 @@ pour lancer un fichier python sur streamlit on ecrit dans le terminal : streamli
 
 st.write('''
 
-# HELLO
-
-EVERYONE
+# titre
+sous titre
 ''')
 
 st.sidebar.header("les paramètres d'entrée")
